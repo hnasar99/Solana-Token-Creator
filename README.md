@@ -1,4 +1,4 @@
-# Solana Token Creator
+ñ# Solana Token Creator
 
 Primary goal of this repo is to help to experiment with solana token creation process without diving too much into details.
 
